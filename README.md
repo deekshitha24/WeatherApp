@@ -25,7 +25,7 @@
 • **SQLite**: SQLite is a lightweight, serverless, self-contained SQL database engine. It's 
   suitable for development and testing purposes due to its simplicity and ease of setup.
 
-### Screenshot
+### Screenshots
 
 
 ![Screenshot 2024-07-24 185936](https://github.com/user-attachments/assets/8764afbf-16f9-44ca-abd8-54026d88b74d)
