@@ -27,10 +27,10 @@
 
 ### Screenshot
 
-![Screenshot 2024-07-24 190136](https://github.com/user-attachments/assets/cc354155-4797-49c6-aae7-b2b24e924100)
-
-![Screenshot 2024-07-24 190007](https://github.com/user-attachments/assets/cd2dcd72-bcc3-4e67-80b6-10f4a78349a2)
 
 ![Screenshot 2024-07-24 185936](https://github.com/user-attachments/assets/8764afbf-16f9-44ca-abd8-54026d88b74d)
 
+![Screenshot 2024-07-24 190007](https://github.com/user-attachments/assets/cd2dcd72-bcc3-4e67-80b6-10f4a78349a2)
+
+![Screenshot 2024-07-24 190136](https://github.com/user-attachments/assets/cc354155-4797-49c6-aae7-b2b24e924100)
 
